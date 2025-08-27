@@ -1,0 +1,6 @@
+flask==2.3.3
+flask-login==0.6.3
+sqlalchemy==2.0.23
+flask-wtf==1.2.1
+bcrypt==4.1.2
+flask-cors==4.0.1
